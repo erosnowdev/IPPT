@@ -13,3 +13,7 @@ Domain: Natural Language Processing
 It is a final year project done by students of  PESIT Bangalore Aravind S , Anirudh M RadhaKrishna and Aravind Bharadwaj
 under the guidance of Dr. R Srinath.
 
+
+Please find the design at
+https://docs.google.com/file/d/0B2LFde0jb9iddXZ6eW4zemQtazg/
+
